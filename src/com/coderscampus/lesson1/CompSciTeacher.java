@@ -9,6 +9,8 @@ public class CompSciTeacher extends Teacher {
 		this.setLevelOfEducation("Bachelors of Education");
 		
 		// new code 
+		// clean tree
+		
 	}
 
 }
