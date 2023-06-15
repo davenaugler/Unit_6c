@@ -1,4 +1,6 @@
-package com.coderscampus.lesson1;
+package com.coderscampus.lesson1.compSci;
+
+import com.coderscampus.lesson1.Teacher;
 
 public class CompSciTeacher extends Teacher {
 	
@@ -8,9 +10,5 @@ public class CompSciTeacher extends Teacher {
 		this.setClasses("COMP 101, COMP 201");
 		this.setLevelOfEducation("Bachelors of Education");
 		
-		// new code 
-		// clean tree
-		
 	}
-
 }
